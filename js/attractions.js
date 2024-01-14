@@ -109,7 +109,7 @@ let attractionInfo = (i) => {
 }
 
 window.onload = () => {
-    let url = (document.URL).split("Almaty%20Now/")
+    let url = (document.URL).split('https://almaty-now.vercel.app/')
     if (url[1].split(".")[0] == "attractions") {
         showAttractions()
         localStorage.removeItem("attractionIndex")
