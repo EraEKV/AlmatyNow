@@ -1,0 +1,22 @@
+.cards.almaty h1 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.cards.almaty h2 {
+    margin-top: 60px;
+}
+
+.cards.almaty h2:first-child {
+    margin-top: 0;
+}
+
+
+.cards.almaty p {
+    margin-bottom: 0;
+}
+
+
+.gerb {
+    padding-top: 20px;
+}

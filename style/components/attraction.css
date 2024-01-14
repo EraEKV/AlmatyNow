@@ -1,0 +1,14 @@
+
+.container.attractions1 h1 {
+    text-align: center;
+    margin: 30px 0;
+    margin-bottom: 50px;
+}
+
+
+.title.attraction {
+    color: #fc5800;
+    margin: 10px 0;
+    margin-bottom: 20px;
+    border: none;
+}

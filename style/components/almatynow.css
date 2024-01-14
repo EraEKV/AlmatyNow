@@ -1,0 +1,37 @@
+.almaty {
+    margin: 60px 0;
+}
+
+.almaty > p {
+    padding: 0 30px;
+}
+
+
+
+.about.almaty:first-child {
+    margin-top: 0;
+}
+
+
+.about.almaty ul {
+    margin-bottom: 30px;
+    padding: 0 60px;
+}
+
+.about.almaty li {
+    color: #000;
+}
+
+.about.almaty h3 {
+    font-size: 22px;
+}
+
+
+hr {
+    border: 1.5px solid #fc5800;
+}
+
+
+
+
+

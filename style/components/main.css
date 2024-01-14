@@ -1,0 +1,39 @@
+body {
+    height: 100%;
+    background-color: #EEEEEE;
+}
+
+.container {
+    padding: 3% 8%;
+    padding-top: 110px;
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    border-top: 3px solid #fc5800;
+}
+
+.container.main {
+    padding-top: 50px;
+}
+
+
+.important {
+    font-weight: 500;
+    color: #fc5800;
+}
+
+.fit_img {
+    object-fit: cover !important;
+}
+
+.bld {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.big_d {
+    font-size: 20px;
+}
